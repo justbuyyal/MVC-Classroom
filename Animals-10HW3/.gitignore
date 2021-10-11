@@ -2,6 +2,8 @@
 *.jpg
 *.png
 
+*.ckpt
+
 cifar10_tutorial.ipynb
 
 archive/translate.py
